@@ -1,0 +1,26 @@
+{
+  "Cost_Category": {
+    "text": "Which level of cost has the country you are thinking of?",
+    "choices": ["Low", "Medium", "High"]
+  },
+  "Tourists_Category": {
+    "text": "How many tourists does the destination you're thinking of usually attract?",
+    "choices": ["Low", "Medium", "High"]
+  },
+  "Safety_Category": {
+    "text": "What is the safety level of the place you're thinking of?",
+    "choices": ["Low", "Medium", "High"]
+  },
+  "Language_Group": {
+    "text": "Which language group is mostly spoken in the place you're thinking of?",
+    "choices": ["Romanic", "Germanic", "Slavic", "Other"]
+  },
+  "Is_Similar_Language": {
+    "text": "Is the main language similar to Romanian?",
+    "choices": ["Yes", "No"]
+  },
+  "Category_Grouped": {
+    "text": "What kind of place is it? (urban, coastal, natural etc.)",
+    "choices": ["Urban", "Coastal", "Nature", "Historic", "Cultural", "Wellness", "Other"]
+  }
+}
